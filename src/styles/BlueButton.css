@@ -1,0 +1,16 @@
+:root {
+  --blue: #1890ff;
+  --white: #ffffff;
+}
+
+.button {
+  padding: 8px 30px;
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--white);
+  background-color: var(--blue);
+  border: none;
+  outline: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
